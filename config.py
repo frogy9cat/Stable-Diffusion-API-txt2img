@@ -1,0 +1,4 @@
+api_key = 'sk-sjheMOMmkoP4XeGetgBzM9U8gMY78Q7qwIEEvUmbKtFs9GJS'
+
+
+# sk-sjheMOMmkoP4XeGetgBzM9U8gMY78Q7qwIEEvUmbKtFs9GJS
